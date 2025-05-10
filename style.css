@@ -1,0 +1,11 @@
+body{
+    background-color: darkslategray;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border: 2px static black;
+}
+#sql{
+    width: 600px;
+}
